@@ -1,4 +1,5 @@
-This is a simple software using 3 layer arquitecture in react native
+This is a simple software using component architecture in react native
+All components have their own style and use an ituls to change their texts
 
 # Getting Started
 
